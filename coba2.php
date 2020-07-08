@@ -103,3 +103,7 @@ maaf jika ada kesalahan masih dalam tahap belajar
 </body>
 </html>
 </html>
+<h1>untuk profil silahkan klik</h1>
+<a href="form.php">disini!!!</a>
+<h2>untuk data diri/biodata silah klik</h2>
+<a href="tabel.html">disini!!!</a>
