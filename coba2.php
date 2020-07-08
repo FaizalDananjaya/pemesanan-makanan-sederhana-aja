@@ -78,6 +78,7 @@ document.form1.reset();
 <tr>
 <td>8<td>Ice Sweet Tea<td>@<input  type="text"   value="10000" disabled="true"/> <td>
 <input  type="text"  name="order8" value="0" onChange="jumlah()"/>
+maaf jika ada kesalahan masih dalam tahap belajar
 </tr>
 <tr>
 <td colspan=3 align="right">Jumlah Total<td><input  type="text"  name="total"/>
