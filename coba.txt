@@ -1,1 +1,3 @@
-<tr><td>$bakso<tr><td>$soti<tr><td>$mie<tr><td>$degan<tr><td>$campur<tr><td>$teh<tr><td>$jeruk<tr><td>$sweet
+<tr><td>$bakso<tr><td>$soto<tr><td>$mie<tr><td>$degan<tr><td>$campur<tr><td>$teh<tr><td>$jeruk<tr><td>$sweet
+boleh juga diketik : 
+|bakso|soto|mie|degan|campur|teh|jeruk|sweet
